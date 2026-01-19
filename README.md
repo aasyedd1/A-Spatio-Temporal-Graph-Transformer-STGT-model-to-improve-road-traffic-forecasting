@@ -1,7 +1,8 @@
-# USTGT Model - METR-LA Traffic Forecasting
+# STGT Model - METR-LA Traffic Forecasting
 
 ## Overview
-This repository contains the official implementation of the **USTGT (Uncertainty-aware Spatio-Temporal Graph Transformer)** model for traffic speed forecasting on the METR-LA dataset. The code supports data preprocessing, model training, evaluation, and reproduces results comparable to state-of-the-art methods including STTN/LSTTN.
+This repository contains the official implementation of the **A Spatio-Temporal Graph Transformer (STGT)
+model to improve road traffic forecasting** model for traffic speed forecasting on the METR-LA dataset. The code supports data preprocessing, model training, evaluation, and reproduces results comparable to state-of-the-art methods including STTN/LSTTN.
 
 **Note:** This implementation is based on and extends the following repositories:
 - [STTN](https://github.com/xumingxingsjtu/STTN) - Spatial-Temporal Transformer Networks
