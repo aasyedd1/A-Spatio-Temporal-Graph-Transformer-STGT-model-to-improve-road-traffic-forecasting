@@ -8,9 +8,9 @@ model to improve road traffic forecasting** model for traffic speed forecasting 
 - [STTN](https://github.com/xumingxingsjtu/STTN) - Spatial-Temporal Transformer Networks
 - [LSTTN](https://github.com/GeoX-Lab/LSTTN) - Long Short-Term Transformer Networks
 
-**Paper:** [Add your paper title and link here]  
-**Authors:** [Add author names]  
-**Conference/Journal:** [Add publication venue]
+**Paper:** A Spatio-Temporal Graph Transformer (STGT) model to improve road traffic forecasting  
+**Authors:** Sadia Nishat Kazmi, Syed Muhammad Abrar Akber2*,Ali Muqtadir  
+**Conference/Journal:** Springer nature Computer Science
 
 ## Key Features
 - Spatio-temporal graph transformer architecture with uncertainty quantification
