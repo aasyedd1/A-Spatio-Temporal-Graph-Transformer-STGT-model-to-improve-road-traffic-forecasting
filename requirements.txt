@@ -1,0 +1,56 @@
+# USTGT Model Requirements
+# Core dependencies for traffic prediction model
+
+# Deep Learning Framework
+torch>=1.12.0
+torchvision>=0.13.0
+
+# Scientific Computing
+numpy>=1.21.0
+pandas>=1.4.0
+scipy>=1.8.0
+
+# Machine Learning
+scikit-learn>=1.1.0
+
+# Data Processing
+h5py>=3.6.0
+pickle5>=0.0.12
+
+# Configuration
+pyyaml>=6.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Progress Bars and Utilities
+tqdm>=4.64.0
+
+# Optional: For advanced features
+# Uncomment if needed
+
+# Graph Neural Networks (optional)
+# torch-geometric>=2.0.0
+
+# Advanced Visualizations (optional)
+# plotly>=5.0.0
+
+# Distributed Training (optional)
+# pytorch-lightning>=1.6.0
+
+# Experiment Tracking (optional)
+# wandb>=0.12.0
+# tensorboard>=2.8.0
+
+# Jupyter Support (optional)
+# jupyter>=1.0.0
+# ipykernel>=6.0.0
+
+# GPU Memory Management (optional)
+# nvidia-ml-py3>=7.352.0
+
+# Development Tools (optional)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
