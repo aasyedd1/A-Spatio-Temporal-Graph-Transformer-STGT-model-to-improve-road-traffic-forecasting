@@ -126,15 +126,6 @@ USTGT_METR-LA/
 └── results/                 # Additional results and logs
 ```
 
-## Expected Results
-
-On METR-LA dataset (12 timesteps prediction):
-- MAE: ~[add your results]
-- RMSE: ~[add your results]  
-- MAPE: ~[add your results]%
-
-Pre-trained model checkpoints are available in `ustgt_outputs/checkpoints/`
-
 ## Configuration
 
 Key configuration parameters in `config.yaml`:
@@ -161,14 +152,7 @@ Key configuration parameters in `config.yaml`:
 
 If you use this code in your research, please cite:
 
-```bibtex
-@inproceedings{your_paper_2024,
-  title={[Your Paper Title]},
-  author={[Author Names]},
-  booktitle={[Conference/Journal Name]},
-  year={2024}
-}
-```
+
 
 Also consider citing the baseline methods that this work builds upon:
 ```bibtex
@@ -198,11 +182,6 @@ Also consider citing the baseline methods that this work builds upon:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For questions or issues, please:
-- Open an issue on GitHub
-- Contact: [your-email@domain.com]
 
 ## Acknowledgments
 
