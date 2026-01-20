@@ -10,7 +10,7 @@ model to improve road traffic forecasting** model for traffic speed forecasting 
 
 **Paper:** A Spatio-Temporal Graph Transformer (STGT) model to improve road traffic forecasting  
 **Authors:** Sadia Nishat Kazmi, Syed Muhammad Abrar Akber*,Ali Muqtadir  
-**Conference/Journal:** Springer nature- Computer Science
+**Journal:** Springer nature- Computer Science
 
 ## Key Features
 - Spatio-temporal graph transformer architecture with uncertainty quantification
@@ -30,7 +30,7 @@ model to improve road traffic forecasting** model for traffic speed forecasting 
 1. **Clone the repository:**
    ```bash
    git clone [your-repo-url]
-   cd USTGT_METR-LA
+   cd STGT_METR-LA
    ```
 
 2. **Install dependencies:**
@@ -66,7 +66,7 @@ This will create synthetic data in the correct format for testing the code.
 ## Usage
 
 ### Training
-Train the USTGT model with default configuration:
+Train the STGT model with default configuration:
 ```bash
 python train.py --config config.yaml
 ```
@@ -105,7 +105,7 @@ python eval.py --checkpoint ustgt_outputs/checkpoints/best_model.pth --config co
 
 ## Project Structure
 ```
-USTGT_METR-LA/
+STGT_METR-LA/
 ├── train.py                 # Main training script
 ├── test.py                  # Model evaluation script
 ├── eval.py                  # Comprehensive evaluation utilities
